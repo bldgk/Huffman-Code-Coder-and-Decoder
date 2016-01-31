@@ -1,0 +1,16 @@
+W:\Projects\githubprojects\Huffman\TestProject\bin\Debug\TestProject.exe.config
+W:\Projects\githubprojects\Huffman\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+W:\Projects\githubprojects\Huffman\TestProject\bin\Debug\TestProject.exe
+W:\Projects\githubprojects\Huffman\TestProject\bin\Debug\TestProject.pdb
+W:\Projects\githubprojects\Huffman\TestProject\bin\Debug\HuffmanLibrary.dll
+W:\Projects\githubprojects\Huffman\TestProject\bin\Debug\HuffmanLibrary.pdb
+W:\Projects\githubprojects\Huffman\TestProject\obj\Debug\TestProject.exe
+W:\Projects\githubprojects\Huffman\TestProject\obj\Debug\TestProject.pdb
+W:\Projects\githubprojects\CourseWork\Huffman\TestProject\bin\Debug\TestProject.exe.config
+W:\Projects\githubprojects\CourseWork\Huffman\TestProject\obj\Debug\TestProject.exe
+W:\Projects\githubprojects\CourseWork\Huffman\TestProject\obj\Debug\TestProject.pdb
+W:\Projects\githubprojects\CourseWork\Huffman\TestProject\bin\Debug\TestProject.exe
+W:\Projects\githubprojects\CourseWork\Huffman\TestProject\bin\Debug\TestProject.pdb
+W:\Projects\githubprojects\CourseWork\Huffman\TestProject\bin\Debug\HuffmanLibrary.dll
+W:\Projects\githubprojects\CourseWork\Huffman\TestProject\bin\Debug\HuffmanLibrary.pdb
+W:\Projects\githubprojects\CourseWork\Huffman\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache

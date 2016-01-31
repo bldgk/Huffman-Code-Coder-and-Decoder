@@ -1,0 +1,5 @@
+<StyleCopViolations>
+  <Violation Section="Root.System.Text" LineNumber="4" Source="W:\Projects\githubprojects\CourseWork\Huffman\TestProject\Program.cs" RuleNamespace="StyleCop.CSharp.OrderingRules" Rule="UsingDirectivesMustBeOrderedAlphabeticallyByNamespace" RuleId="SA1210">Using directives must be sorted alphabetically by the namespaces.</Violation>
+  <Violation Section="Root.System.Threading.Tasks" LineNumber="5" Source="W:\Projects\githubprojects\CourseWork\Huffman\TestProject\Program.cs" RuleNamespace="StyleCop.CSharp.OrderingRules" Rule="UsingDirectivesMustBeOrderedAlphabeticallyByNamespace" RuleId="SA1210">Using directives must be sorted alphabetically by the namespaces.</Violation>
+  <Violation Section="Root.System.Runtime.Serialization" LineNumber="7" Source="W:\Projects\githubprojects\CourseWork\Huffman\TestProject\Program.cs" RuleNamespace="StyleCop.CSharp.OrderingRules" Rule="SystemUsingDirectivesMustBePlacedBeforeOtherUsingDirectives" RuleId="SA1208">System using directives must be placed before all other using directives.</Violation>
+</StyleCopViolations>
